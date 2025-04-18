@@ -69,8 +69,8 @@ URL: [DSE Share Price](https://dsebd.org/latest_share_price_scroll_by_value.php)
 1. Clone the repository:
    ```bash
    git clone https://github.com/AARdacca/Junit-Selenium-Practice1
-2. Open the Project in any IDE
-3. Add Dependency in the build.gradle file and reload gradle from the top right
+2. Open the Project in IntelliJ IDEA.
+3. Add Dependency in the build.gradle file and reload gradle from the top right in IntelliJ IDEA.
    - Dependencies Add:
      - [Selenium Java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.31.0)
      - [Java Faker](https://mvnrepository.com/artifact/com.github.javafaker/javafaker/1.0.2)
