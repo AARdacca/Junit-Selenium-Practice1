@@ -74,8 +74,7 @@ URL: [DSE Share Price](https://dsebd.org/latest_share_price_scroll_by_value.php)
    - Dependencies Add:
      - [Selenium Java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.31.0)
      - [Java Faker](https://mvnrepository.com/artifact/com.github.javafaker/javafaker/1.0.2)
-    
-    image
+   ![8](https://github.com/user-attachments/assets/0dff8d66-4364-470a-8b0e-68f917b7f7ca)
 4. Verification
    - For the web forms:
       - Check the assertion logs for success or failure messages.
@@ -91,36 +90,37 @@ URL: [DSE Share Price](https://dsebd.org/latest_share_price_scroll_by_value.php)
 - Package view
 - Classes view
 #### Report At a glance
-image
+![1](https://github.com/user-attachments/assets/814a19ae-18aa-4d1d-afe0-aa1ed7cc6995)
+
 #### Report Package
-image
+![2](https://github.com/user-attachments/assets/547da9e1-6dd1-4cc9-9931-57127bef4532)
+
 #### Report Classes
-image
+![3](https://github.com/user-attachments/assets/bdc6b6dd-25a9-4cc3-b954-f968306c6c23)
+
 
 ### 📖 1. Webform Automation for Digital Unite
 - Automated field inputs.
 - Implemented file upload functionality.
 - Asserted the expected success message: "Thank you for your submission!".
 #### Report
-image
+![4](https://github.com/user-attachments/assets/c860e811-a017-4dd4-a513-e1dde1394317)
+
 ### 📖 2. Guest Registration Automation for WP Everest
 - Automated field inputs for First Name, Last Name, Email, Password, Gender, DOB, Nationality, Phone, Country, and acceptance of Terms & Conditions.
 - Asserted successful registration upon submission.
 #### Report 
-
-image
+![5](https://github.com/user-attachments/assets/007fafdd-7585-4d21-a7af-a0576b193ac5)
 
 ### 📖 3. Web Scraping for DSEBD Stock Prices
 - Scraped table data from the provided webpage using Selenium.
 - Printed all table cell values in the console.
 - Stored the scraped data into a text file for reference. 
 #### Report
-
-image
+![6](https://github.com/user-attachments/assets/23808759-52e1-42dd-be3a-6bcd3d01299e)
 
 #### Text File
-
-image
+![7](https://github.com/user-attachments/assets/5c952756-42e2-44a0-8bff-8cfe901552ed)
 
 
 
